@@ -1,7 +1,6 @@
 # utility-belt
-Development Tools - inspired by Batman's utility belt.
 
-A curated list of useful tools.
+A list of tools - inspired by Batman's utility belt.
 
 Table of Contents
 =================
@@ -31,5 +30,6 @@ Table of Contents
 * [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events.
 
 ### Documentation
-* [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.    
+*Libraries helpful with documentation*
+
 * [gh-md-toc](https://github.com/ekalinin/github-markdown-toc) - Generate TOC for md files.
