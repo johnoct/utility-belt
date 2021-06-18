@@ -21,12 +21,18 @@ Table of Contents
 =================
 
 * [Tools](#tools)
+    * [WebScraping and Automation](#webscraping-and-automation)
     * [Environment Management](#environment-management)
     * [CLI Enhancements](#cli-enhancements)
     * [Files](#files)
     * [Documentation](#documentation)
 
 ## Tools
+
+### WebScraping and Automation
+*Libraries for automation and bot webscraping.*
+
+* [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Chrome driver that isn't detected by reCAPTCHA
 
 ### Environment Management
 *Libraries for Python version and virtual environment management.*
