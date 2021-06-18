@@ -3,8 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [utility-belt](#utility-belt)
-- [Table of Contents](#table-of-contents)
   - [Tools](#tools)
+    - [WebScraping and Automation](#webscraping-and-automation)
     - [Environment Management](#environment-management)
     - [CLI Enhancements](#cli-enhancements)
     - [Files](#files)
