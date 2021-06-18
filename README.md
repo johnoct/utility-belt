@@ -17,16 +17,6 @@
 
 A list of tools - inspired by Batman's utility belt.
 
-Table of Contents
-=================
-
-* [Tools](#tools)
-    * [WebScraping and Automation](#webscraping-and-automation)
-    * [Environment Management](#environment-management)
-    * [CLI Enhancements](#cli-enhancements)
-    * [Files](#files)
-    * [Documentation](#documentation)
-
 ## Tools
 
 ### WebScraping and Automation
