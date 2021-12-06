@@ -32,6 +32,10 @@ A list of tools - inspired by Batman's utility belt.
 
 ### CLI Enhancements
 * [httpie](https://github.com/jakubroztocil/httpie) - A command line HTTP client, a user-friendly cURL replacement.
+* [bat](https://github.com/sharkdp/bat) - cat with wings
+* [mdcat](https://github.com/lunaryorn/mdcat) - cat for md files
+* [zsh](https://ohmyz.sh/) - Terminal enhancement
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh enhancement
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
