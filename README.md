@@ -36,6 +36,8 @@ A list of tools - inspired by Batman's utility belt.
 * [mdcat](https://github.com/lunaryorn/mdcat) - cat for md files
 * [zsh](https://ohmyz.sh/) - Terminal enhancement
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh enhancement
+* [git-standup](https://github.com/kamranahmedse/git-standup) - tool for getting info on latest commits
+  * ZSH Alias - `alias standup="git standup -s"` 
 
 ### Files
 *Libraries for file manipulation and MIME type detection.*
