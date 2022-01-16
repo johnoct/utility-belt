@@ -3,6 +3,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [utility-belt](#utility-belt)
+  - [Personal Preferences](#personal-preferences)
+    - [Python](#python)
   - [Tools](#tools)
     - [WebScraping and Automation](#webscraping-and-automation)
     - [Environment Management](#environment-management)
@@ -15,7 +17,14 @@
 
 # utility-belt
 
-A list of tools - inspired by Batman's utility belt.
+A list of tools and best practices for myself. - inspired by Batman's utility belt.
+
+## Personal Preferences
+
+### Python
+*Config and Frameworks for Python*
+
+* [black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 ## Tools
 
